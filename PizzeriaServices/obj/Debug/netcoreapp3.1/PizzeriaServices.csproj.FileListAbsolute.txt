@@ -1,0 +1,40 @@
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.exe
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.deps.json
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.runtimeconfig.json
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.runtimeconfig.dev.json
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.dll
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.pdb
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.csprojAssemblyReference.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.AssemblyInfoInputs.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.AssemblyInfo.cs
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.csproj.CoreCompileInputs.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\staticwebassets\PizzeriaServices.StaticWebAssets.Manifest.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\staticwebassets\PizzeriaServices.StaticWebAssets.xml
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\PizzeriaServices.styles.css
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.RazorTargetAssemblyInfo.cache
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.dll
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.pdb
+C:\Users\shalvi.kumari\OneDrive - Accenture\Documents\PizzeriaWebSolutions\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.genruntimeconfig.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.exe
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.deps.json
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.runtimeconfig.json
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.runtimeconfig.dev.json
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.dll
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\bin\Debug\netcoreapp3.1\PizzeriaServices.pdb
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.csprojAssemblyReference.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.AssemblyInfoInputs.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.AssemblyInfo.cs
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.csproj.CoreCompileInputs.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\staticwebassets\PizzeriaServices.StaticWebAssets.Manifest.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\staticwebassets\PizzeriaServices.StaticWebAssets.xml
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\scopedcss\bundle\PizzeriaServices.styles.css
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.RazorTargetAssemblyInfo.cache
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.dll
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.pdb
+C:\Users\shalvi.kumari\Downloads\PizzeriaWebSolutions-master\PizzeriaWebSolutions-master\PizzeriaServices\obj\Debug\netcoreapp3.1\PizzeriaServices.genruntimeconfig.cache
